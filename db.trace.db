@@ -1,0 +1,5 @@
+2020-02-08 16:37:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER_LOGIN" not found; SQL statement:
+insert into user_login (name,contact_no) values (?,?); [42102-199]
+2020-02-08 17:13:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "Richa" [22018-199]
